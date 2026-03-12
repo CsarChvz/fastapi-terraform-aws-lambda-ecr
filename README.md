@@ -1,5 +1,7 @@
 # FastAPI on AWS Lambda (Terraform + ECR Image)
 
+Repo Base: https://github.com/cf2018/fastapi_aws_lambda_from_ecr_image
+
 A simple, extensible FastAPI scaffold designed for AWS Lambda behind API Gatewayc,deployed as a container image in ECR. Terraform manages the infra, Mangum adapts ASGI to Lambda.
 
 ## Features
