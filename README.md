@@ -126,6 +126,9 @@ STAGE=dev
 AWS_REGION=us-east-1
 LAMBDA_NAME=fastapi_aws_lambda
 
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=postgres
+
 ```
 
 ## Notes
